@@ -1,1 +1,1 @@
-map_to_negativ
+map_to_negativize()
